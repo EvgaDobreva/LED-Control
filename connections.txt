@@ -1,0 +1,10 @@
+Joystick -> Breadboard -> Arduino
+	GND	->	+	->	GND (blue)
+	+5V	->	-	->	+5V (green)
+	VRx	->	A0 (red)
+	VRy	->	A1 (orange)
+	SW	->	2 (yellow)
+	
+LED -> Breadboard -> Arduino
+	Longer Leg	->	Resistor	->	13
+	Short Leg	->	/			-> GND
